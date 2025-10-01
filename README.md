@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Quiero un README de perfil profesional y atractivo para mi GitHub. Soy Ingeniero informáatico con mencion en MENCIÓN COMPUTABILIDAD Y SISTEMAS INTELIGENTES por la UPNA , con experiencia/interés en la IA. Me gustaría que el README incluyera: Una breve presentación personal y profesional. Mis tecnologías favoritas (con íconos). Estadísticas de GitHub (commits, lenguajes, etc.). Unos badges sociales (LinkedIn, portafolio, etc.). Sección de proyectos destacados (con enlaces si es posible). Diseño limpio, moderno y responsivo. Mi objetivo es destacar mis habilidades, profesionalismo y pasión por la tecnología. Quiero que el README refleje mi estilo: profesional, divertido, creativo, minimalista."
+Ingeniero informáatico con mencion en MENCIÓN COMPUTABILIDAD Y SISTEMAS INTELIGENTES por la UPNA , con experiencial interés en la Inteligencia Artificial.
 
 
 ## 🌐 Socials:
