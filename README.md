@@ -1,8 +1,10 @@
-# 💫 About Me:
-Ingeniero informáatico con mencion en MENCIÓN COMPUTABILIDAD Y SISTEMAS INTELIGENTES por la UPNA , con experiencial interés en la Inteligencia Artificial.
+# 💫 Sobre mi:
+Ingeniero informático con mencion en computabilidad y sistemas inteligentes en la UPNA (Universidad Pública de Navarra), tengo experiencial interés en la IA. Por ello este año estoy cursando un Master en Inteligencia Artificial en la UNIR (Universidad Internacional de la Rioja), donde dominaré las 5 ramas principales de la IA y aplicaré a proyectos reales. Muchas ganas en crear nuevas solucines y eso me motiva a seguir aprendiendo nuevas tecnologías. 
+
+Otra de mis inquietudes son las ganas por crear y por ello soy Vicepresidente de la asociación lider en impulsar el emprendimiento en Navarra, INNOVA CLUB NAVARRA. Donde conectamos gente inquieta por aprender y expertos de en muchos campos para impulsar el emprendimiento. Nuestra obra maestra estos últimos años ha sido el mayor evento de emprendimiento Joven en Navarra, The ADVENTURE. Donde han podido participar marcas como Hawkers o M***Shakes.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wadeber) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dliebana.dl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/diegoliébana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@wadeber) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dliebana.dl@gmail.com) 
 
 # 💻 Tech Stack:
@@ -14,7 +16,7 @@ Ingeniero informáatico con mencion en MENCIÓN COMPUTABILIDAD Y SISTEMAS INTELI
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Wadeber&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote of the day
+### ✍️ Cita de dev ramdom del día
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
